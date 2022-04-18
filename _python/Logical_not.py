@@ -11,4 +11,3 @@ print(res1)
 
 res2 = not (num1 == 0) # (num1 == 0) will returns false and not operator reverse the actual result.
 print(res2)
-
