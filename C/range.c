@@ -4,6 +4,7 @@
 int main()
 {
     int a;
+
     printf("Enter value in a: ");
     scanf("%d",&a);
     printf("Value of a : %d ",a);
