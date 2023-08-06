@@ -1,8 +1,8 @@
 #program to illustrates a nested-if
 
-number = int(input("Enter a number: ")) 
+number = int(input("Enter a number: "))
 
-if(number=0):
+if(number==0):
     print("Number is zero. Provide a non-zero value")
 else:    
     if(number):  #non zero returns true., Zero returns false
